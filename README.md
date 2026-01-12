@@ -26,8 +26,9 @@ This project involves a comprehensive analysis of over 50,000 airline booking re
 ### Deep-dive: top route by country
 - Explores how top routes perform within each source country by comparing conversion rates and booking patterns.
 
-📄 **Full Report**
+
+<h2>Full report</h2>
 This repository presents a summarized walkthrough of the analysis.
-The complete report, including extended visuals and methodology,
-is available in the attached file.
+The complete report, including extended visuals and methodology, is available in the attached file.
+<br />
 
