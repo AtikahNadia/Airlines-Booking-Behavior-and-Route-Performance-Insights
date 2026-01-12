@@ -23,7 +23,7 @@ This project involves a comprehensive analysis of over 50,000 airline booking re
 - Overall booking trends
 - Booking pattern analysis by country
 
-### Deep-dive: Top route by country
+### Deep-dive: Top routes by country
 - Explores how top routes perform within each source country by comparing conversion rates and booking patterns.
 
 
